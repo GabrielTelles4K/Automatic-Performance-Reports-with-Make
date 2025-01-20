@@ -4,6 +4,8 @@ Este projeto automatiza a geração e envio de relatórios de atendimento. Ele u
 
 O objetivo principal é demonstrar o uso de tecnologias de automação em um fluxo simples, funcional, e replicável.
 
+![PIPELINE DO MAKE](images/make-complete-pipeline)
+
 ---
 
 ## **Tecnologias Utilizadas**
